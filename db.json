@@ -1,0 +1,109 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Nearly All the men in Lagos are mad",
+        "author":"Damilare kuku",
+        "image": "https://textbookcentre.com/media/cache/50/0c/500c489d8494fbd95853b490c03fb27e.webp",
+        "rate":""
+      },
+      {
+       "id": 2,
+        "title": "She would be king",
+        "author":"Wayetu Moore",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1536687250i/37941786.jpg",
+        "rate":""
+      },
+      {
+        "id": 3,
+        "title": "The Secret Lives of Baba Segi's Wives",
+        "author":"Lola Shoneyin",
+        "image": "https://prestigebookshop.com/wp-content/uploads/2019/02/book-image-16715.jpg",
+        "rate":""
+      },
+      {
+        "id": 4,
+        "title": "The Havoc Of Choice",
+        "author":"Wanjiru Koinange",
+        "image": "https://textbookcentre.com/media/products/2030301007037.jpg",
+        "rate":""
+      },
+      {
+        "id": 5,
+        "title": "The girl with the Louding Voice",
+        "author":"Abi Dare",
+        "image": "https://textbookcentre.com/media/cache/71/16/711641ca218450e015c0fd9b4c59e05b.webp",
+        "rate":""
+      },
+      {
+        "id": 6,
+        "title": "A Broken People's Playlist",
+        "author":"Chimeka Garrick",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1707838619i/208453832.jpg",
+        "rate":""
+      },
+      {
+        "id": 7,
+        "title": "For what are butterflies without their wings",
+        "author":"Troy Onyango",
+        "image": "https://textbookcentre.com/media/cache/0a/5f/0a5f57cf4923494357212aa085f0fdb9.webp",
+        "rate":""
+      }, 
+      {
+        "id": 8,
+        "title": "Lucky Girl",
+        "author":"Irene Muchemi-Ndiritu",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660051208i/61913597.jpg",
+        "rate":""
+      },
+      {
+        "id": 9,
+        "title": "Dance of the Jacaranda",
+        "author":"Peter Kimani",
+        "image": "https://textbookcentre.com/media/cache/97/41/97411f883d91940f9eaf63043bf50176.webp",
+        "rate":""
+      },
+      {
+        "id": 10,
+        "title": "We are all birds of Uganda",
+        "author":"Hafsa Zayyan",
+        "image": "https://textbookcentre.com/media/cache/8b/e0/8be0ff6d67b7eaca37ac4d7e58e0dd66.webp",
+        "rate":""
+      },
+      {
+        "id": 11,
+        "title": "Ghana Must Go",
+        "author":"Taiye Selasi",
+        "image": "https://textbookcentre.com/media/products/2030301004296_1.jpg",
+        "rate":""
+      },
+      {
+        "id": 12,
+        "title": "Africa is not a Country",
+        "author":"Dipo Faloyin",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656129648i/60165392.jpg",
+        "rate":""
+      },
+      {
+        "id": 13,
+        "title": "Things Fall Apart",
+        "author":"Chinua Achebe",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1708114013i/37781.jpg",
+        "rate":""
+      },
+      {
+        "id": 14,
+        "title": "Nervous Conditions",
+        "author":"Tsitsi Dangarembga",
+        "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369859435i/158674.jpg",
+        "rate":""
+      },
+      {
+        "id": 15,
+        "title": "Measuring Time",
+        "author":"Helon Habila",
+        "image": "https://textbookcentre.com/media/cache/8b/e0/8be0ff6d67b7eaca37ac4d7e58e0dd66.webp",
+        "rate":""
+      }
+    ]
+  }
