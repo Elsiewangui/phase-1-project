@@ -67,7 +67,7 @@ function populateBookList(displayBooks) {
         bookList.appendChild(li)
 
         const starContainer = li.querySelector('.rating')
-        attachStarEvents(starContainer, book)
+        getStarEvent(starContainer, book)
     });
 }
 
