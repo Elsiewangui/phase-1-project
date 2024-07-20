@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+  
+section {
+    display: flex;
+    margin: 1rem;
+    width: 100%;
+    
+}
+h4 {
+    font-size: 1.5rem;
+    color: #050505;       
+    text-align: left;
+    margin: 0.5rem;  
+    font-weight: bolder; 
+}
+  
+#store-header {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom right, #6a11cb, white);
+    height: 5rem;
+    padding: 1rem;
+}
+#searchBar{ 
+    width: 250px;
+    height: 30%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+    
+}
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+  
+#bookDetails{
+    display: none;
+
+}
+  
+#bookList {
+    gap: 20px;
+    list-style-type: none;
+    padding: 0;
+}
+
+#readingList li {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#readingList li button {
+    background-color: #6a11cb;
+    color: white;
+    border: none;
+    padding: 5px ;
+    cursor: pointer;
+}
+button{
+    background-color: #6a11cb;
+    color: white;
+    border-width: 3px;
+    border-radius: 5px;
+    padding: 6px;
+   
+}
+.book-item {
+    display: inline-table;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    cursor: pointer;
+}
+  
+.book-item h3 {
+    margin: 0;
+}
+  
+.book-item p {
+    margin: 5px 0;
+}
+  
+.bookImage {
+    width: 100%;
+    height: 330px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 1rem;
+}
+.rating {
+    display: inline-block;
+    position: relative;
+    font-size: 1.5em;
+    color: gold;
+    cursor: pointer;
+
+}
+  
+.stars::before {
+    content: '★★★★★';
+    color: white;
+    cursor: pointer;
+}
+  
+.stars::after {
+    content: '★★★★★';
+    color: gold;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    cursor: pointer;
+}
+  
+  
+  
+  
+  
+  
+
+
+  
